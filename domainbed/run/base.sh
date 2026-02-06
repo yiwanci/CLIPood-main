@@ -1,0 +1,1 @@
+python -m domainbed.scripts.collect_results  --input_dir=output/pacs1/results
